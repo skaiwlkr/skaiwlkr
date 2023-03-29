@@ -8,10 +8,11 @@
 
 #### Social
 
-🐦 [Twitter](https://twitter.com/skaiwlkr)  
-💼 [LinkedIn](https://www.linkedin.com/in/sebastian-kaier)  
-🎥 [Letterboxd](https://letterboxd.com/skaiwlkr/)  
-🌐 [sebastiankaier.com](https://sebastiankaier.com)  
+🐦 [Twitter](https://twitter.com/skaiwlkr)
+💼 [LinkedIn](https://www.linkedin.com/in/sebastian-kaier)
+🎥 [Letterboxd](https://letterboxd.com/skaiwlkr/)
+🌐 [sebastiankaier.com](https://sebastiankaier.com)
+🌐 [skaiwlkr.com](https://skaiwlkr.com)
 
 
 #### Statistics
