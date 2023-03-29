@@ -16,7 +16,7 @@
 
 
 #### Statistics
-<img align="right" alt="skaiwlkr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=skaiwlkr&count_private=1&show_icons=true&" />
+<!-- <img align="right" alt="skaiwlkr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=skaiwlkr&count_private=1&show_icons=true&" /> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaiwlkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
