@@ -1,9 +1,9 @@
 ### Hi 👋, I am Sebastian Kaier
 
-💼 Team Lead at [Shopware](https://www.shopware.com/)  
+💼 Working full-time at [Shopware](https://www.shopware.com/)  
 💼 Creating digital solutions at [Studionuca](https://www.studionuca.com)  
-🔭 I’m currently working on my own `personal website`  
-🌱 I’m currently learning `Nuxt 3`  
+🔭 I’m currently working on some websites  
+🌱 I’m currently learning `Nuxt 3`, `VueJS`, `JavaScript`, `TypeScript` & `PHP`  
 📫 Drop an email: hi@sebastiankaier.com  
 
 #### Social
