@@ -8,7 +8,7 @@
 
 #### Social
 
-🐦 [Twitter](https://twitter.com/skaiwlkr)  
+🐦 [X](https://x.com/skaiwlkr)  
 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-kaier)  
 🎥 [Letterboxd](https://letterboxd.com/skaiwlkr/)  
 🌐 [sebastiankaier.com](https://sebastiankaier.com)  
