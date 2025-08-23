@@ -3,7 +3,7 @@
 💼 Working full-time at [Shopware](https://www.shopware.com/) as Software Engineer  
 💼 Creating digital solutions at [Studionuca](https://www.studionuca.com)  
 🔭 I’m currently working on some websites  
-🌱 I’m currently exploring `Nuxt 3`, `VueJS`, `JavaScript`, `TypeScript` & `PHP`  
+🌱 I’m currently exploring `Nuxt`, `VueJS`, `JavaScript` & `TypeScript`  
 📫 Drop an email: hi@sebastiankaier.com  
 
 #### Social
