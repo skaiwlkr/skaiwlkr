@@ -2,6 +2,7 @@
 
 💼 Working full-time at [Shopware](https://www.shopware.com/) as Software Engineer  
 💼 Creating digital solutions at [Studionuca](https://www.studionuca.com)  
+⚡️ Working on [masterball](https://masterballhq.com), a Pokémon TCG platform in my free time  
 🔭 I’m currently working on some websites  
 🌱 I’m currently exploring `Nuxt`, `VueJS`, `JavaScript` & `TypeScript`  
 📫 Drop an email: hi@sebastiankaier.com  
